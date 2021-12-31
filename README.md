@@ -14,6 +14,12 @@ Y para construir el build, recuerden:
 
 ```
 npm run build
-npm start
 ```
+Para ejecutar todo el código en tiempo real en el navegador:
+
+````
+npm start
+````
+
+Para que nuestro código funciones en navegadores antiguos se utiliza BABEL.
 
